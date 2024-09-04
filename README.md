@@ -29,7 +29,7 @@ Alternatively, can you install the plugin by
 and then edit your Homebridge's config.json to include the following in the accessories section:
 
         {
-            "accessory": "3EMEnergyMeter",
+            "accessory": "3EMEnergyMeterAdv",
             "name": "Energy Meter",
             "ip": "192.168.0.1",
             "auth": {
